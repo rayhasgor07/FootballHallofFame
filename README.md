@@ -1,19 +1,24 @@
-The CR7 Museum
-Walk through the career of a legend.
+# FootballHallOfFame
+A fully explorable 3D museum celebrating the legendary careers of Cristiano Ronaldo and Lionel Messi. Walk through a living, interactive hall of football history where both icons roam the space, and every trophy tells a story.
 
-Step inside a fully explorable 3D museum built around the trophy cabinet of one of football's greatest goalscorers — Cristiano Ronaldo. Every stop on the tour holds a piece of a career that's spanned Sporting CP, Manchester United, Real Madrid, Juventus, Al Nassr, and the Portugal national team.
+Overview
+FootballHallOfFame Explore Ronaldo and Messi's trophies, learn the stories behind each achievement, and watch the two greatest players of all time walk around the museum as you explore.
+Playable on desktop, mobile, and browser through WebGL.
 
-What you can do
-🎮 Walk freely through the museum halls in first-person — explore at your own pace, no loading screens between exhibits.
+## **Ronaldo & Messi NPCs**
+Both players walk around the museum in real time, creating a dynamic, living environment. They’re not static — they move, explore, and bring the hall to life.
 
-🏆 Interact with the trophies. Walk up to any display and press E (or tap on mobile) to pull up the story behind it — the year it was won, the club or country he was playing for, and the moments that made it happen.
+## Cross‑Platform Support
+Desktop (keyboard + mouse)
+Mobile browsers (touch joystick + buttons)
+WebGL builds
+Fully playable anywhere.
 
-📱 Play anywhere. Fully playable on desktop with keyboard and mouse, or on mobile/browser with on-screen touch controls — a joystick to look around and simple buttons to move.
+## Why I Built This
+I wanted to create something more meaningful than a simple model viewer, a space where trophies aren’t just shiny objects, but stories you can walk up to and learn from.
+If you’re a fan of Ronaldo, Messi, football history, or interactive experiences, this museum is built for you.
 
-Inside the museum
-Explore silverware from across a career built on five Ballon d'Or awards, five UEFA Champions League titles, league championships in England, Spain, and Italy, a European Championship with Portugal, and a UEFA Nations League crown — plus individual honors along the way, all set against the backdrop of a genuinely record-breaking goalscoring career.
-
-Why I made this
-I wanted to build something that's more than just a model viewer — a space where every trophy actually tells you something, instead of just sitting there looking shiny. If you're a fan of the game or just love football history, come walk through it for yourself.
-
-Built in Unity. Playable in browser (WebGL) and on mobile.
+### Tech Stack
+Unity (URP)
+WebGL
+Mobile‑friendly controls
